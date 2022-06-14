@@ -40,6 +40,7 @@ const mostrar = (usuarios) => {
 /**
  * Funcion para buscar un usuario por correo
  * @author Juan David Rivera
+ * @version 1.0.0
  */
 btnBuscarEmail.addEventListener("click", (e) => {
   let email = formEmail.value;
